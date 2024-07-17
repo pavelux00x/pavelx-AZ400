@@ -2,6 +2,6 @@ This is a file
 New part
 
 ----
-
-Pavel's
+git merge origin/main
+Pavel'sgit branch -agit branch -a
 
